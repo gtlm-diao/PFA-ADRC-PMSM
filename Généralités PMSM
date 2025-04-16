@@ -1,0 +1,8 @@
+# Informations générales
+vidéo explicative sur la position de l'angle du rotor 
+
+### Rôle Clé de l'Onduleur  et sa complicité avec theta (la position du rotor pour créer un champ magnétique maximal
+Il convertit la tension continue (batterie) en tensions alternatives synchronisées avec θ.
+
+Technique courante : Modulation PWM pour ajuster finement amplitude et phase.
+
