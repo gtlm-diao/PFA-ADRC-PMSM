@@ -1,14 +1,18 @@
 # Informations générales
 vidéo explicative sur la position de l'angle du rotor 
 
+## COMMANDE FOC (Vectoorielle)
 ### Rôle Clé de l'Onduleur  et sa complicité avec theta (la position du rotor pour créer un champ magnétique maximal
-Il convertit la tension continue (batterie) en tensions alternatives synchronisées avec θ.
+-Il convertit la tension continue (batterie) en tensions alternatives synchronisées avec θ.
 
-Technique courante : Modulation PWM pour ajuster finement amplitude et phase.
+-Technique courante : Modulation PWM pour ajuster finement amplitude et phase.
+
+[Link vidéo  explivcative interaction des champs statoriques et rotoriques et problématique du FOC](https://youtu.be/2ICU2bi4KeQ?si=6X5m7smUAL9vT6yg)
 
 
+### Key Factors Influencing Mass Adoption of Electric Vehicles 
+[Vidéo](https://youtu.be/2-20N4ly93E?si=QI_657oBsGWdPCbA "Vidéo explicatire")
 
-### Key Factors Influencing Mass Adoption of Electric Vehicles  
 The high upfront cost and limited range of electric vehicles (EVs) are the primary barriers to mass adoption. However, EV manufacturers are actively addressing these challenges in next-generation designs.  
 
 ### Efficiency Improvements in EVs
@@ -38,7 +42,7 @@ Axial flux motors are like **disc brakes**, making better use of space for torqu
 ### **Potential Range Increase**  
 Axial flux motors could improve EV range by **up to 20%** (e.g., in a Tesla Model 3).  
 
-###**Challenges of Axial Flux Motors**  
+### **Challenges of Axial Flux Motors**  
 1. **Higher Rotor Inertia** – Larger diameters increase rotational inertia.  
 2. **Manufacturing Complexity** – More difficult to produce than radial flux motors.  
    - Companies like **Infinitum Electric** are solving this by using **PCB-based stators**, making production easier.  
