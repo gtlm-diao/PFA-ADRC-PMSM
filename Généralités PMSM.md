@@ -64,7 +64,7 @@ Thanks for reading—hope you found this informative!
 ✅ **Added headings** for better organization.  
 
 
-# NECESSITE DE COMPENSATION
+# NECESSITE DE COMPENSATION DE LA MS plutot qu'un PID
 Le découplage dans les machines électriques (comme la MS) a deux objectifs clés :
 
 Linéariser le système (éliminer les couplages non linéaires entre axes d-q).
